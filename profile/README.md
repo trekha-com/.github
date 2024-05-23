@@ -31,4 +31,4 @@ We believe in the power of community, and we welcome contributions from students
 
 ## Contact Us
 
-Have questions or feedback? We'd love to hear from you! Reach out to us on Twitter: [@trekha](https://twitter.com/trekha)
+Have questions or feedback? We'd love to hear from you! Reach out to us on Twitter: [@trekha_com](https://twitter.com/trekha_com)
