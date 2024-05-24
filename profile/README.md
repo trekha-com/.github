@@ -28,7 +28,3 @@ We believe in the power of community, and we welcome contributions from students
 - 💻 Contribute Code: Help us improve our existing products or develop new features that cater to the needs of students and freelance workers.
 - 📢 Provide Feedback: Share your thoughts and suggestions to help us better understand how we can support you in your academic and professional journey.
 - 🗣 Spread the Word: Tell your friends and colleagues about Trekha.com and help us reach more students and freelance workers who can benefit from our tools and resources.
-
-## Contact Us
-
-Have questions or feedback? We'd love to hear from you! Reach out to us on Twitter: [@trekha_com](https://twitter.com/trekha_com)
